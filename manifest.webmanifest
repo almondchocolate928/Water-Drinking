@@ -1,0 +1,19 @@
+{
+  "name": "Water Record",
+  "short_name": "Water Record",
+  "description": "A private, offline water drinking record stored on your device.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f6fc",
+  "theme_color": "#0b5fff",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
